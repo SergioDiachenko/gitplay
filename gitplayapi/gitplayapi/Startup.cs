@@ -26,6 +26,8 @@ namespace gitplayapi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            // 1
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
