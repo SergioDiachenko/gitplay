@@ -35,17 +35,5 @@ namespace gitplayapi.Controllers
             })
             .ToArray();
         }
-
-        [HttpPut]
-        public IActionResult Put()
-        {
-            throw new NotImplementedException();
-        }
-
-        [HttpPost]
-        public IActionResult Post()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
