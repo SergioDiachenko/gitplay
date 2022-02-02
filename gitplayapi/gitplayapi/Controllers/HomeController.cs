@@ -25,5 +25,11 @@ namespace gitplayapi.Controllers
         {
             throw new NotImplementedException();
         }
+
+        [HttpPut]
+        public IActionResult Update()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
