@@ -29,9 +29,6 @@ namespace gitplayapi
 
             // 1
             // 2
-            // 3
-            // 4
-            // 5
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
